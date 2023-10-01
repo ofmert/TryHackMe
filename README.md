@@ -15,52 +15,52 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 ---
 
 ## Level 1 - Intro
-- [x] [Tutorial](https://tryhackme.com/room/tutorial)
-- [x] [OpenVPN](https://tryhackme.com/room/openvpn)
-- [x] [Welcome](https://tryhackme.com/jr/welcome) (write-up [here](write-ups/level1/Welcome))
-- [x] [Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
-- [x] [Intro to Researching](https://tryhackme.com/room/introtoresearch)
-- [x] [Google Dorking](https://tryhackme.com/room/googledorking)
-- [x] [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
+- [ ] [Tutorial](https://tryhackme.com/room/tutorial)
+- [ ] [OpenVPN](https://tryhackme.com/room/openvpn)
+- [ ] [Welcome](https://tryhackme.com/jr/welcome) (write-up [here](write-ups/level1/Welcome))
+- [ ] [Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
+- [ ] [Intro to Researching](https://tryhackme.com/room/introtoresearch)
+- [ ] [Google Dorking](https://tryhackme.com/room/googledorking)
+- [ ] [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 - [ ] [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
-- [x] [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)
-- [x] [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)
-- [x] [Principles of Security](https://tryhackme.com/room/principlesofsecurity)
+- [ ] [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)
+- [ ] [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)
+- [ ] [Principles of Security](https://tryhackme.com/room/principlesofsecurity)
 <!-- - [x] [Crash Course Pentesting](https://tryhackme.com/room/ccpentesting) / Private -->
 
 **Introductory CTFs to get your feet wet**
-- [x] [OHsint](https://tryhackme.com/room/ohsint)
+- [ ] [OHsint](https://tryhackme.com/room/ohsint)
 
 ## Level 2 - Tooling
-- [x] [Tmux](https://tryhackme.com/room/rptmux)
-- [x] [Nmap](https://tryhackme.com/room/furthernmap)
+- [ ] [Tmux](https://tryhackme.com/room/rptmux)
+- [ ] [Nmap](https://tryhackme.com/room/furthernmap)
 - [ ] [Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
-- [x] [Hydra](https://tryhackme.com/room/hydra)
-- [x] [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc) (write-up [here](write-ups/level2/Linux%20PrivEsc))
+- [ ] [Hydra](https://tryhackme.com/room/hydra)
+- [ ] [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc) (write-up [here](write-ups/level2/Linux%20PrivEsc))
 - [ ] [Shodan.io](https://tryhackme.com/room/shodan)
-- [x] [RustScan](https://tryhackme.com/room/rustscan) (write-up [here](write-ups/level2/RustScan))
+- [ ] [RustScan](https://tryhackme.com/room/rustscan) (write-up [here](write-ups/level2/RustScan))
 - [ ] [Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)
 - [ ] [Introduction to OWASP ZAP](https://tryhackme.com/room/learnowaspzap)
 <!-- - [ ] [Sublist3r](https://tryhackme.com/room/rpsublist3r) -->
 <!-- - [ ] [Web Scanning](https://tryhackme.com/room/rpwebscanning) -->
 
 **More introductory CTFs**
-- [x] [Vulnversity](https://tryhackme.com/room/vulnversity) (write-up [here](write-ups/level2/Vulnversity))
-- [x] [Blue](https://tryhackme.com/room/blue)
-- [x] [Simple CTF](https://tryhackme.com/room/easyctf) (write-up [here](write-ups/level2/Simple%20CTF))
-- [x] [Bounty Hacker](https://tryhackme.com/room/cowboyhacker) (write-up [here](write-ups/level2/Bounty%20Hacker))
-- [x] [Brute It](https://tryhackme.com/room/bruteit)
+- [ ] [Vulnversity](https://tryhackme.com/room/vulnversity) (write-up [here](write-ups/level2/Vulnversity))
+- [ ] [Blue](https://tryhackme.com/room/blue)
+- [ ] [Simple CTF](https://tryhackme.com/room/easyctf) (write-up [here](write-ups/level2/Simple%20CTF))
+- [ ] [Bounty Hacker](https://tryhackme.com/room/cowboyhacker) (write-up [here](write-ups/level2/Bounty%20Hacker))
+- [ ] [Brute It](https://tryhackme.com/room/bruteit)
 
 ## Level 3 - Crypto & Hashes with CTF practice
-- [x] [Crack the hash](https://tryhackme.com/room/crackthehash)
-- [x] [Agent Sudo](https://tryhackme.com/room/agentsudoctf)
+- [ ] [Crack the hash](https://tryhackme.com/room/crackthehash)
+- [ ] [Agent Sudo](https://tryhackme.com/room/agentsudoctf)
 - [ ] [The Cod Caper](https://tryhackme.com/room/thecodcaper)
 - [ ] [Ice](https://tryhackme.com/room/ice)
-- [x] [Lazy Admin](https://tryhackme.com/room/lazyadmin) (write-up [here](write-ups/level3/Lazy%20Admin))
-- [x] [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
+- [ ] [Lazy Admin](https://tryhackme.com/room/lazyadmin) (write-up [here](write-ups/level3/Lazy%20Admin))
+- [ ] [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
 ## Level 4 - Web
-- [x] [OWASP Top 10](https://tryhackme.com/room/owasptop10)
+- [ ] [OWASP Top 10](https://tryhackme.com/room/owasptop10)
 - [ ] [OWASP Top 10 - 2021](https://tryhackme.com/room/owasptop102021)
 - [ ] [Inclusion](https://tryhackme.com/room/inclusion)
 - [ ] [Injection](https://tryhackme.com/room/injection)
@@ -93,12 +93,12 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [ ] [Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
 - [ ] [Windows Privesc](https://tryhackme.com/room/windows10privesc)
 - [ ] [Windows Privesc Arena](https://tryhackme.com/room/windowsprivescarena)
-- [x] [Linux Privesc Arena](https://tryhackme.com/room/linuxprivescarena)
+- [ ] [Linux Privesc Arena](https://tryhackme.com/room/linuxprivescarena)
 - [ ] [Blaster](https://tryhackme.com/room/blaster)
 - [ ] [Ignite](https://tryhackme.com/room/ignite)
 - [ ] [Kenobi](https://tryhackme.com/room/kenobi)
-- [x] [c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
-- [x] [Pickle Rick](https://tryhackme.com/room/picklerick) (write-up [here](write-ups/level7/Pickle%20Rick))
+- [ ] [c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
+- [ ] [Pickle Rick](https://tryhackme.com/room/picklerick) (write-up [here](write-ups/level7/Pickle%20Rick))
 
 ## Level 8 - CTF practice
 - [ ] [Post Exploitation Basics](https://tryhackme.com/room/postexploit)
@@ -109,8 +109,8 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [ ] [Overpass](https://tryhackme.com/room/overpass)
 - [ ] [Break out the cage](https://tryhackme.com/room/breakoutthecage1)
 - [ ] [Lian Yu](https://tryhackme.com/room/lianyu)
-- [x] [Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)
-- [x] [Mr Robot CTF](https://tryhackme.com/room/mrrobot)
+- [ ] [Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)
+- [ ] [Mr Robot CTF](https://tryhackme.com/room/mrrobot)
 
 ## Level 9 - Windows
 - [ ] [Active Directory Basics](https://tryhackme.com/room/winadbasics)
